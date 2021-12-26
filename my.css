@@ -1,0 +1,44 @@
+.raj{
+    position: 500%;
+background-color: aquamarine;
+padding : 30px ;
+border: 4px solid
+red;
+margin:  50px ;
+}
+
+.rutu{
+    background-color:brown;
+padding : 30px ;
+border: 4px solid blue;
+margin:  50px ;
+}
+.rajdip{
+    color: violet;
+}
+#co{
+    color: white;
+    
+}
+img{
+    border-radius: 20%  ;
+    height: 190px;
+   
+}
+.ravi{
+    background-color: aquamarine;
+padding : 30px ;
+border: 4px solid
+red;
+margin:  50px ;
+}
+#no{
+    color: grey;
+}
+body{
+    background-image: url("E:\ myweb\ img\ rutu.jpg");
+    background-color: black;
+}
+a{
+    text-decoration: none;
+}
